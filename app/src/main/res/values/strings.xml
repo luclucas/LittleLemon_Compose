@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Estudo_Compose</string>
+    <string name="title">Little Lemon</string>
+    <string name="city">Brasília</string>
+</resources>
